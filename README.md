@@ -1,5 +1,5 @@
 # czechitas-git
 Cvicna git repozitory Czechitas Git
 
-## Druhé cvičdení
+## Druhé cvičení
 Změna do Githubu Lorem Ipsum
